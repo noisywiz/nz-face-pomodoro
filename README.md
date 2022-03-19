@@ -3,6 +3,7 @@ A small pet project to control workaholism. E-Paper screen shows evil pictures i
 Requirements:
 
 - python3.8
+- double-sided tape
 
 Install waveshare/e-Paper like:
 
