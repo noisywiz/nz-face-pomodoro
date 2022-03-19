@@ -15,5 +15,4 @@ python setup.py install
 
 Put your `bmp` pictures in the `pic` directory. Take your photo and put it there too. See main.py to find the file name of the photo.
 
-![RPi and picamera also required](https://github.com/[noisywiz]/[nz-face-pomodoro
-]/blob/[main]/pic/readme_pic.jpg?raw=true)
+![RPi and picamera also required](https://github.com/noisywiz/nz-face-pomodoro/blob/main/pic/readme_pic.jpg?raw=true)
